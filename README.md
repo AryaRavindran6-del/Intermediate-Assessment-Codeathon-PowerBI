@@ -117,7 +117,7 @@ SUM(Sales_Data[Profit_Clean])
 - Processed and cleaned the sales dataset to obtain 1,000 unique order records.
 - Identified East as the region with the highest order count (263).
 - Identified Monitor as the most frequently ordered product (132 orders).
-- Calculated total profit of **5,142,654**.
+- Calculated total profit of **₹5.036586**.
 - Developed an interactive dashboard to analyse regional sales distribution, product demand, and profit trends.
 
 ## Project Deliverables
