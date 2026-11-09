@@ -123,8 +123,9 @@ SUM(Sales_Data[Profit_Clean])
 ## Project Deliverables
 
 - Original sales dataset.
-- Cleaned and transformed dataset.
-- Power BI dashboard (`.pbix` file).
+- Questions (.docx file)
+- Summative Assessment_Power BI (`.pbix` file).
+- Power BI Dashboard (.pdf file)
 - Assessment methodology and step-by-step documentation.
 
 ## Conclusion
