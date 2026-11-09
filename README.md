@@ -3,7 +3,7 @@ Power BI Intermediate Assessment-Codeathon – Sales data cleaning, transformati
 
 ## Project Overview
 
-This repository contains my **Intermediate Assessment-Codeathon** completed as part of the *Program in AI-Driven Data Analytics* offered by Entri App.
+This repository contains my **Intermediate Assessment-Codeathon** completed as part of the *Program in AI-Driven Data Analytics*.
 
 The project focuses on analysing sales data using Microsoft Power BI, covering data cleaning, transformation, data quality management, DAX calculations, data visualization, and interactive dashboard development.
 
@@ -126,7 +126,7 @@ SUM(Sales_Data[Profit_Clean])
 - Questions (.docx file)
 - Summative Assessment_Power BI (`.pbix` file).
 - Power BI Dashboard (.pdf file)
-- Assessment methodology and step-by-step documentation.
+- Assessment methodology and step-by-step documentation.(.docx file)
 
 ## Conclusion
 
